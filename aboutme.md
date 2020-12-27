@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+[Click Here for CV](resources/UnkyungLee_CV_June2020.pdf)
+
 ### Working Experience:
    
    - _Postdoc Research Fellow (2020-now), Oak Ridge Institute for Science and Education Program, [U.S. Food and Drug Administration](https://www.fda.gov/home)_
@@ -23,7 +25,6 @@ title: About me
        - Dissertation: Solving a Nonconvex Quadratic Optimization problem by Splitting Coefficient Matrices of its Constraints and its Numerical Experiments
    - _B.S., Mathematics (2007), Ewha Womans University, Seoul, Korea_
 
-[Click Here for CV](resources/UnkyungLee_CV_June2020.pdf)
 
 
      
