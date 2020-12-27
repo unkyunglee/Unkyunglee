@@ -5,9 +5,9 @@ fontsize: 14pt
 ---
 
 [Click Here for CV](resources/UnkyungLee_CV_June2020.pdf) 
-<p align="right" width="100%">
+<align="right" width="100%">
     <img width="10%" src="img/UnkyungLee.jpg"> 
-</p>
+
 
 ### Working Experience:
    
