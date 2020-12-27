@@ -4,7 +4,7 @@ title: Unkyung Lee
 subtitle: Postdoc Research Fellow, U.S. Food & Drug Administration
 ---
 
-<img align="left" src="img/UnkyungLee.jpg" alt="" with="300">
+<img align="left" src="img/UnkyungLee.jpg" alt="" with="250">
 
 ### Contact:
 Division of Biostatistics<br/>
