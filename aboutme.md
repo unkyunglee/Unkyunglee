@@ -5,7 +5,7 @@ title: About me
 
 ### Working Experience:
    
-   - _Postoc Research Fellow (2020-now), Oak Ridge Institute for Science and Education Program, U.S. Food and Drug Administration_
+   - _Postdoc Research Fellow (2020-now), Oak Ridge Institute for Science and Education Program, U.S. Food and Drug Administration_
    - _Postdoc Research Associate (2017-2020), Biostatistics, Bioinformatics, Nutrition and Cancer Research Training Program (NIH-T32), Texas A&M University, College Station, TX_   
        - Supervisors: [Dr. Raymond J. Carroll](https://carroll.stat.tamu.edu/) and [Dr. Tanya P. Garcia](https://tpgarcia.github.io/)
    -Adjunct Professor (Fall, 2016), Sam Houston State University, Huntsville, TX
