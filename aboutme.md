@@ -3,7 +3,10 @@ layout: page
 title: About me
 ---
 
-[Click Here for CV](resources/UnkyungLee_CV_June2020.pdf)
+[Click Here for CV](resources/UnkyungLee_CV_June2020.pdf) 
+<p align="right" width="100%">
+    <img width="22%" src="img/UnkyungLee.jpg"> 
+</p>
 
 ### Working Experience:
    
