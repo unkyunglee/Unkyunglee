@@ -23,7 +23,7 @@ title: About me
        - Dissertation: Solving a Nonconvex Quadratic Optimization problem by Splitting Coefficient Matrices of its Constraints and its Numerical Experiments
    - _B.S., Mathematics (2007), Ewha Womans University, Seoul, Korea_
 
-
+[Click Here for CV](file:///home/test/file.pdf)
 
 
      
