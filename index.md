@@ -5,7 +5,7 @@ subtitle: Postdoc Research Fellow, U.S. Food & Drug Administration
 ---
 
 <p align="center" width="100%">
-    <img width="33%" src="img/UnkyungLee.jpg"> 
+    <img width="45%" src="img/UnkyungLee.jpg"> 
 </p>
 
 ### Contact:
