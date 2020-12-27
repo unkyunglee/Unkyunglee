@@ -14,11 +14,13 @@ author: Unkyung Lee
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "http://unkyunglee.github.io"
   About Me: "aboutme"
+  Publication:
+  Teaching:
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  url: "http://unkyunglee.github.io"
 
 # --- Logo --- #
 
@@ -95,8 +97,8 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#8B008B"
-navbar-text-col: "#404040"
+navbar-col: "#008080"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
