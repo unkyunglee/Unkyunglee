@@ -32,7 +32,7 @@ subtitle: Postdoc Research Fellow, U.S. Food & Drug Administration
 	
 	
 <div class="row">&nbsp;</div>
-</div>	
+
 
 
 
