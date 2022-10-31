@@ -25,7 +25,7 @@ SPSS)**  *(Fall 2016)*
 **STAT 1221 Elements of Statistics I** *(Spring 2016)*
 
 **STAT 2122 Introduction to Probability and Statistics** *(Summer 2015)*
-Calculus based statistical thoery and basic statistical method
+Basic Statistical methods, Calculus prerequisite
 
 **STAT 1222 Introductory Statistics** *(Spring 2014)*
 
