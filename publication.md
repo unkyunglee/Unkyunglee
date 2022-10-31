@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 fontsize: 14pt
 ---
 
