@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Teaching
+fontsize: 14pt
 ---
+
 
 
 ### Texas A&M University, College Station, TX
