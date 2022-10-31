@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Publication
 fontsize: 14pt
 ---
 
