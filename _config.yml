@@ -16,7 +16,7 @@ author: Unkyung Lee
 navbar-links:
   Home: "http://unkyunglee.github.io"
   About Me: "aboutme"
-  Publication: "publication"
+  Publications: "publication"
   Teaching: "teaching"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
