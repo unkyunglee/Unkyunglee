@@ -1,3 +1,8 @@
+---
+layout: page
+title: About me
+fontsize: 14pt
+---
 
 ### Manuscript in Preparation
 **Lee, U.** and Xu, Z. (2022+) Design for immuno-oncology clinical trial with a het-
